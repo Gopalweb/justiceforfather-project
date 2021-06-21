@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:23:37	51561/51561	---MCZ	200	added ('OK')	text/html	date:Thu,%2020%20May%202021%2008:53:37%20GMT	https://bootstrapmade.com/demo/templates/Presento/	C:/My%20Web%20Sites/justice-%20for-father/bootstrapmade.com/demo/templates/Presento/index.html	(from )
+14:23:37	100/100	---M-Z	200	added ('OK')	text/plain	date:Thu,%2020%20May%202021%2008:53:36%20GMT	https://bootstrapmade.com/robots.txt		(from )
